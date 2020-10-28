@@ -1,9 +1,11 @@
 .main-div {
     display: flex;
+    margin-top: 30px;
 }
 
 .sec-div {
     display: flex;
+    margin-top: 20px;
 }
 
 .this-red{
