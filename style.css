@@ -1,0 +1,65 @@
+.main-div {
+    display: flex;
+}
+
+.this-red{
+    background-color: red;
+    width: 300px;
+    height: 300px;
+    border: 5px outset black
+}
+
+.this-blue {
+    background-color: blue;
+    width: 300px;
+    height: 300px;
+    border: 5px outset black
+}
+
+.this-green {
+    background-color: green;
+    width: 300px;
+    height: 300px;
+    border: 5px outset black;
+}
+
+.this-cyan {
+    background-color: cyan;
+    width: 300px;
+    height: 300px;
+    border: 5px outset black;
+}
+
+h1 {
+    color: white;
+    border: 5px outset orange;
+    text-align: center;
+}
+
+.this-yellow {
+    background-color: yellow;
+    width: 300px;
+    height: 300px;
+    border: 5px outset black;
+}
+
+.this-purple {
+    background-color: purple;
+    width: 300px;
+    height: 300px;
+    border: 5px outset black;
+}
+
+.this-pink {
+    background-color: pink;
+    width: 300px;
+    height: 300px;
+    border: 5px outset black;
+}
+
+.this-light-blue {
+    background-color: lightblue;
+    width: 300px;
+    height: 300px;
+    border: 5px outset black;
+}
