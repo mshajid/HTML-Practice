@@ -2,6 +2,10 @@
     display: flex;
 }
 
+.sec-div {
+    display: flex;
+}
+
 .this-red{
     background-color: red;
     width: 300px;
